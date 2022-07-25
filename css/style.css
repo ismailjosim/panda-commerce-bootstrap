@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+#header_slider {
+    background-color: #FCEAE8;
+    margin-top: 1rem;
+    border-radius: 10px;
+
+}
+
+
+
+
+@media screen and (max-width:576px) {
+    #hero_slider {
+        padding: 1rem;
+    }
+
+    .carousel {
+        text-align: center;
+        margin-bottom: 2rem;
+    }
+
+}
