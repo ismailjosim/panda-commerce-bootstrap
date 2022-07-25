@@ -8,13 +8,21 @@ body {
     font-family: "Poppins", sans-serif;
 }
 
-#header_slider {
+#header_slider,
+#contact {
     background-color: #FCEAE8;
     margin-top: 1rem;
     border-radius: 10px;
 
 }
 
+#contact {
+    height: 20rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
 
 
 
